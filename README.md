@@ -1,17 +1,23 @@
 # 💫 About Me:
-🔭 I’m currently working on
-Building MERN Stack projects and strengthening backend development with Node.js, Express.js, MongoDB, REST APIs, and real-world scalable application features.
-👯 I’m looking to collaborate on
+
+🔭 **I’m currently working on:**  
+Building MERN Stack projects and strengthening backend development with **Node.js, Express.js, MongoDB, REST APIs**, and real-world scalable application features.
+
+👯 **I’m looking to collaborate on:**  
 Open-source projects, web applications, backend systems, and internship opportunities where I can learn and contribute meaningfully.
-🤝 I’m looking for help with
+
+🤝 **I’m looking for help with:**  
 Career guidance, referrals, real-world development exposure, and improving best practices in backend engineering.
-🌱 I’m currently learning
-Data Structures & Algorithms, Object Oriented Programming, Backend architecture, and performance optimization.
-💬 Ask me about
-MERN Stack, Backend Development, REST APIs, Debugging, Problem Solving, and Internship preparation.
-⚡ Fun fact
+
+🌱 **I’m currently learning:**  
+Data Structures & Algorithms, Object-Oriented Programming, Backend Architecture, and Performance Optimization.
+
+💬 **Ask me about:**  
+MERN Stack, Backend Development, REST APIs, Debugging, Problem Solving, and Internship Preparation.
+
+⚡ **Fun fact:**  
 I love building things from scratch and improving them step-by-step — starting small but aiming big! 🚀
-<br>
+
 
 
 ## 🌐 Socials:
