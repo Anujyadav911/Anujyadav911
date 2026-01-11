@@ -23,22 +23,12 @@ I enjoy building scalable applications and system-level projects with a focus on
 ---
 
 ## 🛠️ Tech Stack
-
-### Languages
-- **C++**, **JavaScript**, **TypeScript**, **Python**
-
-### Frontend
-- **React.js**, HTML, CSS, Vite
-
-### Backend
-- **Node.js**, **Express.js**, REST APIs, FastAPI
-
-### Databases
-- **MongoDB**, **MySQL**, Firebase
-
-### Tools & Platforms
-- Git, GitHub, Docker, CMake  
-- AWS, Google Cloud, Render, Vercel
+**Languages:** C++, JavaScript, TypeScript, Python  
+**Frontend:** React.js, HTML, CSS  
+**Backend:** Node.js, Express.js, REST APIs  
+**Databases:** MongoDB, MySQL, Firebase  
+**Tools:** Git, GitHub, Docker, CMake  
+**Cloud & Deployment:** AWS, GCP, Render, Vercel  
 
 ---
 
