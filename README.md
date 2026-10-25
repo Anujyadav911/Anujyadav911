@@ -1,100 +1,166 @@
-# 👋 Hey, I'm Anuj Yadav
 
-### AI Engineer · Full-Stack Developer · Product Builder
+from pathlib import Path
 
-I build **AI-powered applications and production-ready products** that solve real-world problems.
+USERNAME = "Anujyadav911"
+EMAIL = "anujyadav47247@gmail.com"
+LINKEDIN = "https://www.linkedin.com/in/anuj-yadav-506a99257"
 
-Currently working as an AI Engineer Intern at Mondee Tech, Hyderabad, with experience across AI engineering, backend systems, and full-stack development.
+readme = r'''<div align="center">
 
-I enjoy taking ideas from concept to deployment — designing APIs, building intelligent workflows, optimizing databases, and shipping products for real users.
+# `Anuj Yadav`
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/anuj-yadav-506a99257">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Anujyadav911">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+### `AI Engineer` | `Full-Stack Developer` | `Product Builder`
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=00F7A5&center=true&vCenter=true&width=650&lines=Building+AI-powered+applications;Shipping+products+for+real+users;Python+%7C+LLMs+%7C+Backend+Engineering;Turning+ideas+into+production" alt="Typing SVG" />
 
-## 🚀 Products I've Built
+[![GitHub](https://img.shields.io/badge/GitHub-Anujyadav911-181717?style=flat-square&logo=github)](https://github.com/Anujyadav911)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:EMAIL_ADDRESS)
 
-### 🌐 Synckra — Internship & Fresher Job Platform
-
-**Helping students discover career opportunities.**
-
-A platform focused on connecting students with internship and entry-level job opportunities, with an emphasis on usability, search visibility, and product growth.
-
-- 📈 Reached approximately **7,000 users**.
-- ⚡ Built with Astro and deployed on Vercel.
-- 🗄️ Integrated Supabase and PostgreSQL for application data.
-- 🔄 Used Redis and BullMQ for background processing.
-- 🔍 Focused on SEO, indexing health, and discoverability.
-
-**Tech:** `Astro` `PostgreSQL` `Supabase` `Redis` `BullMQ` `Vercel`
-
-[🌐 Live Website](YOUR_SYNCKRA_URL) · [💻 Source Code](YOUR_SYNCKRA_REPOSITORY_URL)
-
-### 📱 MilkyWave — Local Commerce & Delivery Platform
-
-**Bringing customers and local shops closer through technology.**
-
-A mobile application designed around local product discovery, ordering, and delivery workflows.
-
-- 📲 Developed a mobile experience using React Native and Expo.
-- 🔗 Integrated Supabase for backend services and application data.
-- 🛒 Worked on customer ordering and shop-related workflows.
-- ⚙️ Focused on a practical, API-driven application architecture.
-
-**Tech:** `React Native` `Expo` `TypeScript` `Supabase` `PostgreSQL`
-
-[💻 Source Code](YOUR_MILKYWAVE_REPOSITORY_URL)
+</div>
 
 ---
 
-## 🧠 AI & Engineering
+## `whoami`
 
-I'm particularly interested in building intelligent applications that combine modern AI capabilities with reliable software engineering.
+```python
+class AnujYadav:
+    role = "AI Engineer Intern"
+    company = "Mondee Tech"
+    location = "Hyderabad, India"
 
-- **AI Engineering:** LLMs, RAG pipelines, AI agents, LangChain, LangGraph, Hugging Face, fine-tuning
-- **Backend:** Python, FastAPI, Node.js, Express.js, REST APIs, WebSockets
-- **Frontend:** React, Next.js, TypeScript, Astro, Tailwind CSS
-- **Databases:** PostgreSQL, Supabase, MongoDB, Redis, MySQL
-- **Infrastructure:** Docker, Git, CI/CD, Vercel, Render
+    interests = [
+        "Artificial Intelligence",
+        "LLMs & RAG Pipelines",
+        "Backend Engineering",
+        "Full-Stack Product Development",
+    ]
 
----
+    philosophy = "Build it. Ship it. Improve it."
 
-## 💬 Ask Me About
+    def currently_building(self):
+        return "Intelligent systems for real-world problems"
 
-- Building AI-powered applications with LLMs and RAG
-- Designing backend services and REST APIs
-- Full-stack development with React and Node.js
-- Database design, caching, and background jobs
-- Turning product ideas into deployable applications
 
----
+me = AnujYadav()
+```
 
-## 📊 GitHub Analytics
+## `ls ./featured-projects`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anujyadav911&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anujyadav911&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages"/>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Anujyadav911&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-</p>
+### 🌐 Synckra
 
----
+**Internship & Fresher Job Platform**
 
-## 🤝 Let's Connect
+A career platform helping students discover internships and entry-level opportunities.
 
-I'm interested in collaborating on AI products, backend engineering, full-stack applications, and open-source projects.
+- 📈 Approximately **7,000 users**
+- ⚡ Modern Astro frontend
+- 🗄️ Supabase & PostgreSQL
+- 🔄 Redis & BullMQ background processing
+- 🔍 SEO and search discoverability
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/anuj-yadav-506a99257)
-- 📧 [Email](mailto:anujyadav47247@gmail.com)
-- 💻 [GitHub](https://github.com/Anujyadav911)
+`Astro` `PostgreSQL` `Redis` `BullMQ`
 
-**Build with purpose. Ship to production. Keep learning.** ⚡
+[Explore Project →](SYNCKRA_URL)
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 MilkyWave
+
+**Local Commerce & Delivery Platform**
+
+A mobile application focused on connecting customers with local shops and supporting ordering workflows.
+
+- 📲 Cross-platform mobile experience
+- 🔗 Supabase backend integration
+- 🛒 Customer and shop workflows
+- ⚙️ API-driven application architecture
+
+`React Native` `Expo` `TypeScript` `Supabase`
+
+[Explore Repository →](MILKYWAVE_REPO_URL)
+
+</td>
+</tr>
+</table>
+
+## `import tech_stack`
+
+```python
+tech_stack = {
+    "languages": [
+        "Python", "C++", "JavaScript", "TypeScript"
+    ],
+    "ai_ml": [
+        "LLMs", "RAG", "AI Agents",
+        "LangChain", "LangGraph", "Hugging Face"
+    ],
+    "backend": [
+        "FastAPI", "Node.js", "Express.js", "REST APIs"
+    ],
+    "frontend": [
+        "React", "Next.js", "Astro", "Tailwind CSS"
+    ],
+    "databases": [
+        "PostgreSQL", "MongoDB", "Redis", "MySQL"
+    ],
+    "tools": [
+        "Git", "Docker", "CI/CD", "Vercel"
+    ],
+}
+```
+
+## `./github --stats`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Anujyadav911&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anujyadav911&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<img src="https://streak-stats.demolab.com?user=Anujyadav911&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
+
+</div>
+
+## `connect --with Anuj`
+
+```python
+contact = {
+    "github": "https://github.com/Anujyadav911",
+    "linkedin": "LINKEDIN_URL",
+    "email": "EMAIL_ADDRESS",
+}
+
+print("Open to building meaningful things together.")
+```
+
+<div align="center">
+
+### `while True:`
+### `    learn()`
+### `    build()`
+### `    ship()`
+
+</div>
+'''
+
+# Replace placeholders with your profile details.
+readme = (
+    readme
+    .replace("LINKEDIN_URL", LINKEDIN)
+    .replace("EMAIL_ADDRESS", EMAIL)
+)
+
+# Set these to your actual links before publishing.
+readme = readme.replace("SYNCKRA_URL", "YOUR_SYNCKRA_WEBSITE")
+readme = readme.replace("MILKYWAVE_REPO_URL", "YOUR_MILKYWAVE_REPOSITORY")
+
+Path("README.md").write_text(readme, encoding="utf-8")
+
+print("README.md generated successfully!")
+print("Review project links, then push README.md to GitHub.")
