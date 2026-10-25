@@ -546,7 +546,6 @@ def generate_full_readme() -> str:
         build_header(),
         build_about(),
         build_highlights(),
-        build_commit_tracker(),
         build_projects(),
         build_mini_dashboard(),
         build_skills(),
