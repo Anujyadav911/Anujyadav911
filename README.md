@@ -94,27 +94,6 @@ print(me.current_mission())
 
 ---
 
-### <code>git log --contributions --year-wise</code>
-
-<details open>
-  <summary><b>📅 2026 Activity (259 Contributions) — Active Year</b></summary>
-  <br/>
-  <img src="./assets/git_tracker_2026.svg" width="100%" alt="2026 GitHub Contributions Tracker" />
-</details>
-
-<details>
-  <summary><b>📅 2025 Activity (69 Contributions)</b></summary>
-  <br/>
-  <img src="./assets/git_tracker_2025.svg" width="100%" alt="2025 GitHub Contributions Tracker" />
-</details>
-
-<details>
-  <summary><b>📅 2024 Activity (0 Contributions)</b></summary>
-  <br/>
-  <img src="./assets/git_tracker_2024.svg" width="100%" alt="2024 GitHub Contributions Tracker" />
-</details>
-
----
 
 ### <code>ls -la ./featured_projects/</code>
 
