@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Clean Branded Assets & Profile Preview - Anuj Yadav</title>
+  <style>
+    body {
+      background-color: #f1f5f9;
+      color: #0f172a;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      padding: 40px 20px;
+      margin: 0;
+    }
+    .container {
+      max-width: 940px;
+      margin: 0 auto;
+    }
+    h1 {
+      color: #0f172a;
+      font-size: 24px;
+      font-weight: 800;
+      text-align: center;
+      margin-bottom: 8px;
+    }
+    .subtitle {
+      text-align: center;
+      color: #64748b;
+      font-size: 14px;
+      margin-bottom: 30px;
+    }
+    .nav-link {
+      display: inline-block;
+      background: #059669;
+      color: #ffffff;
+      text-decoration: none;
+      padding: 8px 18px;
+      border-radius: 6px;
+      font-weight: 600;
+      font-size: 13px;
+      margin-bottom: 25px;
+    }
+    .section-title {
+      color: #334155;
+      font-family: 'Fira Code', monospace;
+      font-size: 14px;
+      font-weight: 700;
+      margin-top: 35px;
+      margin-bottom: 12px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .card-wrap {
+      background: #ffffff;
+      padding: 16px;
+      border-radius: 12px;
+      border: 1px solid #e2e8f0;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+      margin-bottom: 20px;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+    }
+    .grid-2 {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+    }
+    .about-preview {
+      display: flex;
+      gap: 20px;
+      align-items: center;
+      background: #ffffff;
+      border: 1px solid #e2e8f0;
+      border-radius: 12px;
+      padding: 20px;
+    }
+    pre {
+      background: #0f172a;
+      color: #f8fafc;
+      padding: 16px;
+      border-radius: 8px;
+      font-family: 'Fira Code', monospace;
+      font-size: 12.5px;
+      margin: 0;
+      flex: 3;
+    }
+    .cat-box {
+      flex: 1;
+      text-align: center;
+    }
+    .cat-box img {
+      width: 140px;
+      margin: 0 auto;
+      border-radius: 8px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Anuj Yadav — GitHub Profile & Asset Preview</h1>
+    <div class="subtitle">Clean Branded White Theme · Anya Forger · Anime Cat · Year-Wise Commit Tracker</div>
+
+    <div style="text-align: center;">
+      <a class="nav-link" href="readme_preview.html">View Full Rendered README Preview &rarr;</a>
+    </div>
+
+    <!-- 1. Header Banner -->
+    <div class="section-title">1. Anya Welcome Header Banner (No flower, clean white card)</div>
+    <div class="card-wrap">
+      <img src="assets/cat-header.svg?t=clean1" alt="Anya Welcome Header Banner" />
+    </div>
+
+    <!-- 2. About Me + Anime Cat -->
+    <div class="section-title">2. About Me Section (Wider layout + exact cute anime cat)</div>
+    <div class="about-preview">
+      <pre><code># anuj-station:~ $ whoami.py
+class AnujYadav:
+    role         = "AI Engineer Intern @ Mondee Tech Pvt. Ltd."
+    location     = "Hyderabad, India"
+    education    = "B.Tech in ECE, IIIT Manipur (Graduating May 2026)"
+    seeking      = "Full-Time AI Engineering / Backend Software Roles"
+
+    core_focus   = [
+        "Autonomous AI Agents & LangGraph",
+        "Production RAG Pipelines & Multi-LLM Fallbacks",
+        "High-Concurrency Ingestion & Scalable Backends",
+    ]
+    tech_stack   = [
+        "Python", "FastAPI", "React", "TypeScript", "PostgreSQL", "Redis"
+    ]
+    fuel         = "Chai ☕ + Python 🐍 + Peanuts 🥜"
+    allies       = ["Anya Forger 🌸", "Chibi Neko ฅ^•ﻌ•^ฅ"]
+
+me = AnujYadav()
+print(me.current_mission())</code></pre>
+      <div class="cat-box">
+        <img src="assets/cat.png" alt="Cute Anime Cat" />
+        <div style="font-size: 11px; color: #64748b; margin-top: 8px; font-style: italic;">"Simple code, solid architecture."</div>
+      </div>
+    </div>
+
+    <!-- 3. Git Commit Tracker -->
+    <div class="section-title">3. LeetCode / GitHub Style Commit Tracker (2026 Activity: 259 commits)</div>
+    <div class="card-wrap">
+      <img src="assets/git_tracker_2026.svg?t=clean1" alt="2026 Git Tracker" />
+    </div>
+
+    <div class="section-title">4. Past Year Git Commit Tracker (2025 Activity: 69 commits)</div>
+    <div class="card-wrap">
+      <img src="assets/git_tracker_2025.svg?t=clean1" alt="2025 Git Tracker" />
+    </div>
+
+    <!-- 5. Featured Projects -->
+    <div class="section-title">5. Featured Project Cards (Synckra & MilkyWave)</div>
+    <div class="grid-2">
+      <div class="card-wrap">
+        <img src="assets/cat-synckra.svg?t=clean1" alt="Synckra Preview" />
+      </div>
+      <div class="card-wrap">
+        <img src="assets/cat-milkywave.svg?t=clean1" alt="MilkyWave Preview" />
+      </div>
+    </div>
+
+    <!-- 6. End Anya Card -->
+    <div class="section-title">6. End Anya Closing Card (Mission Complete)</div>
+    <div class="card-wrap">
+      <img src="assets/endanaya-card.svg?t=clean1" alt="End Anya Card" />
+    </div>
+  </div>
+</body>
+</html>
